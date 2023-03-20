@@ -1,5 +1,6 @@
 .slick-list {
-    margin: 0 -10px !important;
+    /* margin: 0 5px !important; */
+    width: 100%;
 }
 
 /* @media screen and (max-width: 768px) {
@@ -10,10 +11,10 @@
     }
 } */
 
-
+/* 
 .slick-slide {
     margin: 0 10px;
-  }
+  } */
 
   /* @media screen and (max-width: 768px) {
     .slick-slide {
