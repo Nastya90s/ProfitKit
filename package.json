@@ -5,11 +5,11 @@
   "description": "### Обзор",
   "main": "./index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
-    "dev": "webpack serve",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "dev": "webpack serve"
   },
   "dependencies": {
     "core-js": "^3.29.0",
