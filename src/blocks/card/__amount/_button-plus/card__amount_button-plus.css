@@ -8,3 +8,7 @@
     border: none;
     cursor: pointer;
 }
+
+.card__amount_button-plus:hover {
+    opacity: 0.5;
+  }

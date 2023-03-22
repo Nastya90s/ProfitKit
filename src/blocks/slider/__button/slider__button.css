@@ -1,7 +1,4 @@
 .slider__button {
-    /* margin: 0;
-    padding: 0; */
-    /* box-sizing: border-box; */
     cursor: pointer;
     background: none;
     width: 40px;
@@ -17,6 +14,10 @@
     top: 45%;
     position: absolute;
 }
+
+.slider__button:hover {
+    opacity: 0.5;
+  }
 
 @media screen and (max-width: 768px) {
     .slider__button {

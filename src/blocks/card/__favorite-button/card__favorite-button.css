@@ -1,5 +1,5 @@
 .card__favorite-button {
-    position: fixed;
+    position: absolute;
     outline: none;
     background: #FFFFFF;
     border-radius: 50px;
@@ -16,9 +16,6 @@
     transition: opacity 0.2s ease;
 }
 
-.card__favorite-button:hover {
-  opacity: 0.5;
-}
 
 @media screen and (max-width: 768px) {
   .card__favorite-button {
