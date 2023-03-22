@@ -7,6 +7,7 @@
     background-color: #FFFFFF;
     border: none;
     cursor: pointer;
+    transition: opacity 0.2s ease;
 }
 
 .card__amount_button-minus:hover {

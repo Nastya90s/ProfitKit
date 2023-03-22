@@ -13,6 +13,7 @@
     z-index: 1;
     top: 45%;
     position: absolute;
+    transition: opacity 0.2s ease;
 }
 
 .slider__button:hover {
