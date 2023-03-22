@@ -1,5 +1,5 @@
 .card__favorite-button {
-    position: absolute;
+    position: fixed;
     outline: none;
     background: #FFFFFF;
     border-radius: 50px;

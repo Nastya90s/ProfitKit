@@ -21,6 +21,7 @@
 @import url(../blocks/card/__amount/_button-minus/card__amount_button-minus.css);
 @import url(../blocks/card/__amount/_button-plus/card__amount_button-plus.css);
 @import url(../blocks/card/__buy-button/card__buy-button.css);
+@import url(../blocks/card/__buy-button/_span/card__buy-button_span.css);
 @import url(../blocks/card/__new-price/card__new-price.css);
 @import url(../blocks/card/__old-price/card__old-price.css);
 @import url(../blocks/card/__sticker-image/card__sticker-image.css);

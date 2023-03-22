@@ -1,5 +1,5 @@
 .card__sticker-image {
-    position: absolute;
+    position: fixed;
     border-radius: 50px;
     margin-left: 20px;
     top: 20px;
